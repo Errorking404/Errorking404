@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Blood Donation Web<br>👯 I’m looking to collaborate on UI designing<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about UI and Termux<br>⚡ Fun fact: I learned python rom chatgpt
 
 
 ## 🌐 Socials:
